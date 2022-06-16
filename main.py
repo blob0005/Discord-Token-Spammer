@@ -21,7 +21,7 @@ if anyerror == True:
 try:
     import os
     from os import system
-    system("title " + "Token Spammer")
+    system("title " + "Token Spammer,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 import threading, time
